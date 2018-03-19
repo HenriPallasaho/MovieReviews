@@ -12,7 +12,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
+        <entry file="file://$PROJECT_DIR$/../MovieReviews/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="35">
               <caret line="68" column="10" lean-forward="false" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
@@ -24,7 +24,7 @@
         </entry>
       </file>
       <file leaf-file-name="confirm.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/confirm.php">
+        <entry file="file://$PROJECT_DIR$/../MovieReviews/confirm.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
@@ -34,7 +34,7 @@
         </entry>
       </file>
       <file leaf-file-name="haeArvostelut.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/haeArvostelut.php">
+        <entry file="file://$PROJECT_DIR$/../MovieReviews/php/haeArvostelut.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
@@ -46,7 +46,7 @@
         </entry>
       </file>
       <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/config.php">
+        <entry file="file://$PROJECT_DIR$/../MovieReviews/php/config.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="16" />
@@ -116,8 +116,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="Elokuvaprojekti OIKEE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Elokuvaprojekti OIKEE" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="MovieReviews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MovieReviews" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -171,12 +171,12 @@
       <workItem from="1513168063818" duration="33000" />
       <workItem from="1513238086647" duration="4645000" />
       <workItem from="1520845402448" duration="37000" />
-      <workItem from="1521456749977" duration="150000" />
+      <workItem from="1521456749977" duration="287000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8214000" />
+    <option name="totallyTimeSpent" value="8351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1300" y="23" width="1260" height="1341" extended-state="0" />
@@ -215,44 +215,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/php/haeArvostelut.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-          <folding>
-            <marker date="1513247925000" expanded="true" signature="337:457" ph="INSERT INTO Arvostelu... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="16" />
-          <folding>
-            <marker date="1513247765000" expanded="true" signature="3043:3114" ph="SELECT * FRO... Kayttaja" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="132" column="10" lean-forward="false" selection-start-line="132" selection-start-column="10" selection-end-line="132" selection-end-column="10" />
-          <folding>
-            <marker date="1513246647000" expanded="true" signature="1209:1220" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/confirm.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/confirm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
@@ -260,21 +223,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/saveUser.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/saveUser.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <marker date="1513164822000" expanded="true" signature="409:455" ph="SELECT * FRO... Kayttaja" />
+            <marker date="1513164822000" expanded="true" signature="751:880" ph="INSERT INTO Kayttaja... " />
+            <marker date="1513164822000" expanded="true" signature="919:1048" ph="INSERT INTO Kayttaja... " />
+            <marker date="1513164822000" expanded="true" signature="1332:1374" ph="SELECT * FRO... Kayttaja" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="51" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/config.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/php/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="12" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="107" selection-end-column="2" />
@@ -284,28 +254,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logout.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/logout.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstLogin.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/firstLogin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/upload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
           <caret line="47" column="2" lean-forward="true" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -315,14 +288,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/register.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -332,21 +306,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/register.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/saveUser.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/saveUser.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="43" column="54" lean-forward="true" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+          <folding>
+            <marker date="1513164822000" expanded="true" signature="409:455" ph="SELECT * FRO... Kayttaja" />
+            <marker date="1513164822000" expanded="true" signature="751:880" ph="INSERT INTO Kayttaja... " />
+            <marker date="1513164822000" expanded="true" signature="919:1048" ph="INSERT INTO Kayttaja... " />
+            <marker date="1513164822000" expanded="true" signature="1332:1374" ph="SELECT * FRO... Kayttaja" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/confirm.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/confirm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
@@ -354,21 +335,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logout.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/logout.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/config.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/php/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -378,21 +361,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstLogin.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/firstLogin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/upload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -402,14 +387,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/register.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/confirm.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/confirm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
@@ -417,28 +403,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/saveUser.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/saveUser.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="44" column="41" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <marker date="1513164822000" expanded="true" signature="409:455" ph="SELECT * FRO... Kayttaja" />
+            <marker date="1513164822000" expanded="true" signature="751:880" ph="INSERT INTO Kayttaja... " />
+            <marker date="1513164822000" expanded="true" signature="919:1048" ph="INSERT INTO Kayttaja... " />
+            <marker date="1513164822000" expanded="true" signature="1332:1374" ph="SELECT * FRO... Kayttaja" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logout.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/logout.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/config.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/php/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -448,47 +442,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstLogin.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/firstLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tietotakanta_elokuvat - New Page.jpeg">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/Tietotakanta_elokuvat - New Page.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/robots.txt">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/robots.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kuvat.html">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/kuvat.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/browserconfig.xml">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/browserconfig.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -496,14 +492,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="52" lean-forward="true" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
@@ -511,40 +508,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uploads/84_file0001316404158.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/register.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/register.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logout.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/logout.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/upload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/functions.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/php/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main-b.js">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/js/main-b.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-119">
           <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="7" />
@@ -552,28 +547,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/firstLogin.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/firstLogin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/saveUser.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/saveUser.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="42" column="60" lean-forward="true" selection-start-line="42" selection-start-column="60" selection-end-line="42" selection-end-column="60" />
+          <folding>
+            <marker date="1513164822000" expanded="true" signature="409:455" ph="SELECT * FRO... Kayttaja" />
+            <marker date="1513164822000" expanded="true" signature="751:880" ph="INSERT INTO Kayttaja... " />
+            <marker date="1513164822000" expanded="true" signature="919:1048" ph="INSERT INTO Kayttaja... " />
+            <marker date="1513164822000" expanded="true" signature="1332:1374" ph="SELECT * FRO... Kayttaja" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/haeKommentit.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/php/haeKommentit.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/confirm.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/confirm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
@@ -581,7 +583,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/config.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/php/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="16" />
@@ -591,22 +593,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="68" column="10" lean-forward="false" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
-          <folding>
-            <marker date="1513246647000" expanded="true" signature="1209:1220" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/haeArvostelut.php">
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/php/haeArvostelut.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
           <folding>
             <marker date="1513247925000" expanded="true" signature="337:457" ph="INSERT INTO Arvostelu... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/uploads/99x_how-to-draw-pikachu--pokemon-tutorial-drawing.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/uploads/84_file0001316404158.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/uploads/81_file0001608482449.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/uploads/71_file000132701536.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/uploads/Tietotakanta_elokuvat.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MovieReviews/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="68" column="10" lean-forward="false" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
+          <folding>
+            <marker date="1513246647000" expanded="true" signature="1209:1220" ph="..." />
           </folding>
         </state>
       </provider>
